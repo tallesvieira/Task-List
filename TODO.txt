@@ -1,0 +1,8 @@
+TODO:
+
+usuário: cadastrar com nome, email, senha
+	Poder alterar seu email,senha ou até o próprio nome 
+	Realizar o login com email e senha	
+	Cadastrar tarefas	
+	Concluir tarefas
+	Excluir tarefas não concluidas
